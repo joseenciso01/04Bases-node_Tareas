@@ -117,4 +117,4 @@ class Tareas {
         }
 }
 
-module.exports = Tareas;
+module.exports = Tareas;    
